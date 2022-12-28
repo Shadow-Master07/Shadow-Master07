@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shadow-Master07
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning database and trying to use python to access them
+- 📫 You can reach me on email
