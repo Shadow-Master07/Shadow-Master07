@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shadow-Master07
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning database and trying to use python to access them
+- 👋 Hi, I’m Kumar Priyanshu AKA Shadow-Master07
+- 👀 I’m interested in a learning things that may or may not be of my use later on
+- 🌱 I’m currently pursuing B.Tech from IIIT Nagpur
 - 📫 You can reach me on email
